@@ -69,3 +69,11 @@ python manage.py createsuperuser
 
 # Run server
 python manage.py runserver
+
+# Future Enhancements
+1. Real-time monitoring using WebSockets for PLC data.
+2. Enhanced visualization for logs and I/O data via dashboards.
+
+# Contributing
+Feel free to fork this repository and submit pull requests to contribute to the project.
+   
